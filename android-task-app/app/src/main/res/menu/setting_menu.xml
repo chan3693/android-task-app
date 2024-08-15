@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_all_tab"
+        android:title="Delete All Tasks"/>
+<!--    <item-->
+<!--        android:id="@+id/reset_all"-->
+<!--        android:title="Reset All Setting"/>-->
+</menu>
